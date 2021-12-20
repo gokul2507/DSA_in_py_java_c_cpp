@@ -1,0 +1,12 @@
+{
+    "python.formatting.provider": "black",
+    "java.project.sourcePaths": [
+        "Sorting/Selection",
+        "Sorting/Merge",
+        "List/Singly Linked List/Java",
+        "Sorting/quick"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled",
+    // "files.autoSave": "off",
+    // "editor.formatOnSave": true
+}

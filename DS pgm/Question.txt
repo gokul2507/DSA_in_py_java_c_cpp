@@ -1,0 +1,45 @@
+
+
+
+
+
+
+
+input:
+1 4
+2 3
+2 2
+2 5
+3 9
+3 7
+3 0
+3 8
+2 6
+8
+5
+6
+5
+8
+7 3
+6
+8
+4 4 5
+4 5 8
+8
+9
+
+
+output:
+To create a new list press 1
+To add a element at the beginning of the list press 2 and then the element
+To add a element at the end of the list press 3 and then the element
+To add a element at the specified position of the list press 4 the position to insert and then the element
+To delete a element at the beginning press 5
+To delete a element at the end press 6
+To delete a element at the specified position press 7 and the position to delete
+To print the list press 8
+To exit the program print 9
+6 5 2 3 9 7 0 8 
+2 3 9 7 0 
+2 3 7 
+2 3 7 5 8
